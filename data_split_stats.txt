@@ -1,0 +1,4 @@
+Training Samples: 5698.00
+Testing Samples: 1425.00
+Training Percentage: 79.99
+Testing Percentage: 20.01

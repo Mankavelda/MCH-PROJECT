@@ -1,0 +1,5 @@
+Practical Implications for Maternal and Child Health in Northwest Cameroon:
+- Random Forest is recommended due to its high accuracy and robustness.
+- Focus on key predictors (see feature_importance.csv) like birth weight and gestational age.
+- Deploy the model in clinics to identify high-risk pregnancies early.
+- Use predictions to allocate resources and prioritize prenatal care for high-risk cases.
